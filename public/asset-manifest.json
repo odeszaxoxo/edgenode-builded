@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.440b56dd.chunk.css",
-  "main.js": "/static/js/main.abb649f0.chunk.js",
-  "main.js.map": "/static/js/main.abb649f0.chunk.js.map",
+  "main.css": "/static/css/main.ee6d540b.chunk.css",
+  "main.js": "/static/js/main.c91e1156.chunk.js",
+  "main.js.map": "/static/js/main.c91e1156.chunk.js.map",
   "static/js/1.b8b49eda.chunk.js": "/static/js/1.b8b49eda.chunk.js",
   "static/js/1.b8b49eda.chunk.js.map": "/static/js/1.b8b49eda.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -11,8 +11,8 @@
   "static/media/UniversityPageHeader.scss": "/static/media/campus.07231920.png",
   "static/media/MSU.png": "/static/media/MSU.1e3e1a92.png",
   "static/media/logo2.png": "/static/media/logo2.c623997a.png",
-  "static/css/main.440b56dd.chunk.css.map": "/static/css/main.440b56dd.chunk.css.map",
+  "static/css/main.ee6d540b.chunk.css.map": "/static/css/main.ee6d540b.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.636bab7c470b95d5af48096b182df20e.js": "/precache-manifest.636bab7c470b95d5af48096b182df20e.js",
+  "precache-manifest.33805935cc10e03d33576edb066e111a.js": "/precache-manifest.33805935cc10e03d33576edb066e111a.js",
   "service-worker.js": "/service-worker.js"
 }
